@@ -1,0 +1,207 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+ Title : Custom CSS 
+ Author : EmailMeForm
+ URL : http://emailmeform.com
+
+ Last Updated : June 22, 2011
+
+ - - - - - - - - - - - - - - - - - - - - - -
+
+INSTRUCTIONS
+
+You can modify all or portions of these CSS rules.
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+
+/* -- Logo -- */
+
+#emf-container #emf-logo a /* logo image */
+{
+  background-repeat:no-repeat;
+  text-indent:-99999px;
+  background-image: url("http://emf2/builder/images/themes/logos/airplane.png");
+  background-repeat: no-repeat;
+  height: 25px;
+}
+
+
+/* -- Backgrounds -- */
+
+body /* wallpaper */
+{
+  background-image: none; 
+  background-color: #3D484B;
+}
+
+#emf-container #emf-logo /* header */
+{
+  background-image: none;
+  background-color: #98C6EE;
+  margin: 0; padding: 0;
+}
+
+#emf-container /* form */
+{
+  background-color: #DDDDDD;
+}
+
+#emf-container div.emf-div-field input, /* field */
+#emf-container div.emf-div-field textarea,
+#emf-container div.emf-div-field select
+{
+  background-color: #FFFFFF;
+  height: 12px;
+}
+
+#emf-container #emf-form ul li.highlight-field /* highlight */
+{
+  background-color: #7B7779;
+}
+
+#emf-container li .emf-div-instruction, #emf-container li .emf-div-field label /* instructions */
+{
+  background-color: none;
+}
+
+
+/* -- Typography -- */
+
+#emf-container #emf-form-title /* title */
+{
+  font-family: Georgia;
+  font-style: oblique;
+  font-size: 23px;
+  color: #3D484B;
+}
+
+#emf-container #emf-form-description /* description */
+{
+  font-family: Courier New;
+  font-style: normal;
+  font-size: 15px;
+  color: #000000;
+}
+
+#emf-container label.emf-label-desc /* field title */
+{
+  font-family: Courier New;
+  font-style: italic;
+  font-size: 15px;
+  color: #000000;
+}
+
+#emf-container div.emf-div-field input, /* field text */
+#emf-container div.emf-div-field textarea,
+#emf-container div.emf-div-field select
+{
+  font-family: Arial;
+  font-style: normal;
+  font-size: 12px;
+  color: #3D484B;
+  height: 12px;
+}
+
+#emf-container li .emf-div-instruction, #emf-container li .emf-div-field label /* instructions */
+{
+  font-family: Arial;
+  font-style: italic;
+  font-size: 10px;
+  color: #3D484B;
+}
+
+
+/* -- Borders -- */
+
+#emf-container /* form */
+{ 
+  border-top: #8AA4B7 5px solid; 
+  border-right: #8AA4B7 5px solid;
+  border-bottom: #8AA4B7 5px solid;
+  border-left: #8AA4B7 5px solid; 
+}
+
+#emf-container #emf-logo /* header */
+{
+  -moz-border-radius:2px 2px 0 0;
+  -webkit-border-radius:2px 2px 0 0;
+}
+
+/* -- Shadows -- */
+
+#emf-container-outer #emf-form-shadows /* bottom shadow image */
+{
+  display:block;
+  margin:0 auto;
+  height:9px;
+  width:640px;
+  border:medium none;
+  visibility: visible;
+}
+
+/* -- Separator Lines -- */
+
+#emf-container .emf-head-widget, #emf-container li .emf-section-separator{
+  border-bottom-style: dashed;
+  border-color: #3D484B;
+}
+
+/* -- Section Title -- */
+
+#emf-container li.emf-field-section_break div.emf-div-field-section h3{
+	font-size:16px;
+}
+
+/* -- Section Text -- */
+
+#emf-container li.emf-field-section_break .emf-section-text{
+  font-family: Arial;
+  font-style: normal;
+  font-size: 13px;
+  color: #3D484B;
+}
+
+/* -- Buttons -- */
+
+#emf-container .emf-action-next /* next button */
+{
+}
+
+#emf-container .emf-action-previous /* previous button */
+{
+}
+
+#emf-container #submit_form /* submit button */
+{
+}
+
+
+/* -- CAPTCHA -- */
+
+#emf-container li#emf-li-captcha #emf-captcha-top-settings
+{
+  background-color:#AAD6AA;
+  color:#FFFFFF;
+}
+
+#emf-container li#emf-li-captcha #emf-captcha-bottom-settings
+{
+  background-color:#E4F8E4;
+}
+
+#emf-container li#emf-li-captcha #emf-captcha-input-settings,
+#emf-container li#emf-li-captcha #emf-captcha-input-settings a
+{
+  color:#000000;
+}
+
+
+/* -- Error message -- */
+
+#emf-container .emf-error-message
+{
+  margin: 10px;
+  padding: 2px;
+  border: 2px dashed #FF0000;
+}
