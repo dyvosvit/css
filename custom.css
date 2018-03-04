@@ -31,8 +31,9 @@ You can modify all or portions of these CSS rules.
 
 body /* wallpaper */
 {
-  background-image: none; 
-  background-color: #00ff00;
+background-color: #ffffff;
+background-image: url("http://www.trophylandscaping.com/wp-content/uploads/2016/02/cool.jpg");
+background-position: center top; background-size: auto; background-repeat: repeat-y; background-attachment: fixed;
 }
 
 #emf-container #emf-logo /* header */
