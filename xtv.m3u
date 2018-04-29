@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:0,TV1000
+http://50.7.120.170:8081/tv1000/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:1,1HD
+http://50.7.120.170:8081/1hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:2,VIP Comedy HD
+http://50.7.120.170:8081/comedy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:3,Travel Channel
+http://50.7.120.170:8081/travel-channel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:4,Outdoor Channel
+http://50.7.120.170:8081/outdoor-channel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:5,ЧП.INFO
+http://50.7.120.170:8081/chp-info/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:6,Русский иллюзион
+http://50.7.120.170:8081/illuzionrus/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:7,История
+http://50.7.120.170:8081/istoriya/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:8,Иллюзион+
+http://50.7.120.170:8081/illyuzion-pl/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:9,Кинопоказ HD 2
+http://50.7.120.170:8081/kinopokaz2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:10,VIP Premiere HD
+http://50.7.120.170:8081/premiere/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:11,Ю-ТВ
+http://50.7.120.170:8081/u_tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:12,Amedia Premium
+http://50.7.120.170:8081/amedia-premium/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:13,TV1000 Action
+http://50.7.120.170:8081/tv1000action/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:14,A2
+http://50.7.120.170:8081/a2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:15,Disney Channel
+http://50.7.120.170:8081/disney/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:16,Bollywood
+http://50.7.120.170:8081/bollywood/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:17,Спорт 2
+http://50.7.120.170:8081/sport2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:18,Спорт 1
+http://50.7.120.170:8081/sport1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:19,Дом Кино Премиум
+http://50.7.120.170:8081/dom-kino-premium/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:20,Nickelodeon
+http://50.7.120.170:8081/nickelodeon/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:21,Морской
+http://50.7.120.170:8081/morskoy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:22,Viasat Sport
+http://50.7.120.170:8081/viasatsport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:23,Кинокомедия
+http://50.7.120.170:8081/kinokomediya/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:24,5 канал Украина
+http://50.7.120.170:8081/5-kanal-ukraina/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:25,Мужской
+http://50.7.120.170:8081/muzhskoy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:26,Russian Music Box
+http://50.7.120.170:8081/russian-music-box/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:27,Т24
+http://50.7.120.170:8081/t24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:28,Новый канал
+http://50.7.120.170:8081/novyj-kanal14/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:29,Киномикс
+http://50.7.120.170:8081/kinomiks/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:30,Еспресо TV
+http://50.7.120.170:8081/espreso-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:31,Карусель
+http://50.7.120.170:8081/karusel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:32,Кинопоказ HD 1
+http://50.7.120.170:8081/kinopokaz1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:33,Интер
+http://50.7.120.170:8081/inter/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:34,M1
+http://50.7.120.170:8081/m1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:35,TV1000 Русское Кино
+http://50.7.120.170:8081/tv1000ryskino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:36,M2
+http://50.7.120.170:8081/m2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:37,Моя планета
+http://50.7.120.170:8081/moya-planeta/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:38,ТНТ4
+http://50.7.120.170:8081/tnt4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:39,Рыжий
+http://50.7.120.170:8081/ryzhiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:40,Кинохит
+http://50.7.120.170:8081/kinohit/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:41,Родное кино
+http://50.7.120.170:8081/rodnoe-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:42,TV XXI (TV 21)
+http://50.7.120.170:8081/tv-21/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:43,AMC
+http://50.7.120.170:8081/amc-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:44,Зоо ТВ
+http://50.7.120.170:8081/zoo-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:45,ОЦЕ
+http://50.7.120.170:8081/oce/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:46,Громадське ТВ
+http://50.7.120.170:8081/hromadske/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:47,Авто Плюс
+http://50.7.120.170:8081/avtoplys/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:48,RU TV
+http://50.7.120.170:8081/ru-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:49,Наш Детектив
+http://50.7.120.170:8081/nash-detektiv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:50,Тлум
+http://50.7.120.170:8081/tlum/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:51,ICTV
+http://50.7.120.170:8081/ictv9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:52,СТБ
+http://50.7.120.170:8081/stb15/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:53,Детский
+http://50.7.120.170:8081/detskij/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:54,Мульт
+http://50.7.120.170:8081/mult/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:55,Viasat History
+http://50.7.120.170:8081/viasat-history/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:56,Кинопремьера
+http://50.7.120.170:8081/kinopremera/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:57,CTC Love
+http://50.7.120.170:8081/ctclove/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:58,Ля минор
+http://50.7.120.170:8081/lya-minor/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:59,Бобёр
+http://50.7.120.170:8081/bober/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:60,Охотник и рыболов
+http://50.7.120.170:8081/ohotnik-i-rybolov/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:61,MTV Dance
+http://50.7.120.170:8081/mtv-dance/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:62,Русский детектив
+http://50.7.120.170:8081/russkiy-detektiv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:63,VIP Megahit HD
+http://50.7.120.170:8081/megahit/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:64,Galaxy TV
+http://50.7.120.170:8081/galaxy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:65,Авто24
+http://50.7.120.170:8081/avto24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:66,Остросюжетное Кино
+http://50.7.120.170:8081/ostrosjuzhetnoe/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:67,Sony Channel
+http://50.7.120.170:8081/sonychannel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:68,Еда ТВ
+http://50.7.120.170:8081/eda-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:69,Amedia 1
+http://50.7.120.170:8081/amedia1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:70,Шансон ТВ
+http://50.7.120.170:8081/shanson/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:71,Макси ТВ
+http://50.7.120.170:8081/maxxi-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:72,Муз-ТВ
+http://50.7.120.170:8081/muz-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:73,Радость моя
+http://50.7.120.170:8081/radost-moja/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:74,Travel+adventure
+http://50.7.120.170:8081/travel-adventure/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:75,Sony Turbo
+http://50.7.120.170:8081/sonyturbo/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:76,ЕвроКино
+http://50.7.120.170:8081/evrokino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:77,112 Украина
+http://50.7.120.170:8081/112-ukrana/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:78,КХЛ
+http://50.7.120.170:8081/khl/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:79,365 дней
+http://50.7.120.170:8081/365-dney/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:80,Viasat Explore
+http://50.7.120.170:8081/viasat-explore/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:81,MTV Hits
+http://50.7.120.170:8081/mtv-hits/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:82,Sony Sci-Fi
+http://50.7.120.170:8081/sonyscifi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:83,Пятница!
+http://50.7.120.170:8081/pjatnica/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:84,Индийское кино
+http://50.7.120.170:8081/indiya-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:85,Живая планета
+http://50.7.120.170:8081/zivaya-planeta/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:86,Русский роман
+http://50.7.120.170:8081/russkiy-roman/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:87,Europa Plus TV
+http://50.7.120.170:8081/europaplus/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:88,Paramount Channel
+http://50.7.120.170:8081/paramount-channel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:89,Bridge TV
+http://50.7.120.170:8081/bridge-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:90,History
+http://50.7.120.170:8081/histori/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:91,Мужское кино
+http://50.7.120.170:8081/muzhskoe-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:92,ТНТ MUSIC
+http://50.7.120.170:8081/tnt-musik/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:93,Ani
+http://50.7.120.170:8081/ani/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:94,Кухня ТВ
+http://50.7.120.170:8081/kuhnya-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:95,Оружие
+http://50.7.120.170:8081/oruzhie/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:96,Наука 2.0
+http://50.7.120.170:8081/nauka/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:97,Трофей
+http://50.7.120.170:8081/trofej/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:98,Наше новое кино
+http://50.7.120.170:8081/nashe-novoe-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:99,Viasat Nature
+http://50.7.120.170:8081/viasat-nature/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:100,Tiji
+http://50.7.120.170:8081/tiji/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:101,Мама
+http://50.7.120.170:8081/mama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:102,ACB TV
+http://50.7.120.170:8081/acb-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:103,VH1 Classic
+http://50.7.120.170:8081/vh1clas/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:104,Русский бестселлер
+http://50.7.120.170:8081/russkiy-bestseller/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:105,Доктор
+http://50.7.120.170:8081/doktor/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:106,НСТ
+http://50.7.120.170:8081/nst/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:107,Дом кино
+http://50.7.120.170:8081/domkino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:108,MTV Россия
+http://50.7.120.170:8081/mtv-rys/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:109,Телеканал 24
+http://50.7.120.170:8081/24-telekanal/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:110,НТН
+http://50.7.120.170:8081/ntn/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:111,Боец
+http://50.7.120.170:8081/boec/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:112,Звезда
+http://50.7.120.170:8081/zvezda/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:113,Music Box UA
+http://50.7.120.170:8081/music-box-ua/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:114,2x2
+http://50.7.120.170:8081/2na2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:115,Загородная жизнь
+http://50.7.120.170:8081/zagorodnaya-zhizn/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:116,VH1
+http://50.7.120.170:8081/vh1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:117,К1
+http://50.7.120.170:8081/k1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:118,Наш Кинороман
+http://50.7.120.170:8081/nash-kinoroman/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:119,Nick Jr
+http://50.7.120.170:8081/nick-jr/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:120,Gulli
+http://50.7.120.170:8081/gulli/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:121,OTV
+http://50.7.120.170:8081/otv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
