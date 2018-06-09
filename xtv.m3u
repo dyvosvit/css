@@ -1,245 +1,429 @@
 #EXTM3U
-#EXTINF:0,TV1000
-http://50.7.120.170:8081/tv1000/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:1,1HD
-http://50.7.120.170:8081/1hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:2,VIP Comedy HD
-http://50.7.120.170:8081/comedy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:3,Travel Channel
-http://50.7.120.170:8081/travel-channel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:4,Outdoor Channel
-http://50.7.120.170:8081/outdoor-channel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:5,ЧП.INFO
-http://50.7.120.170:8081/chp-info/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:6,Русский иллюзион
-http://50.7.120.170:8081/illuzionrus/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:7,История
-http://50.7.120.170:8081/istoriya/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:8,Иллюзион+
-http://50.7.120.170:8081/illyuzion-pl/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:9,Кинопоказ HD 2
-http://50.7.120.170:8081/kinopokaz2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:10,VIP Premiere HD
-http://50.7.120.170:8081/premiere/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:11,Ю-ТВ
-http://50.7.120.170:8081/u_tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:12,Amedia Premium
-http://50.7.120.170:8081/amedia-premium/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:13,TV1000 Action
-http://50.7.120.170:8081/tv1000action/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:14,A2
-http://50.7.120.170:8081/a2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:15,Disney Channel
-http://50.7.120.170:8081/disney/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:16,Bollywood
-http://50.7.120.170:8081/bollywood/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:17,Спорт 2
-http://50.7.120.170:8081/sport2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:18,Спорт 1
-http://50.7.120.170:8081/sport1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:19,Дом Кино Премиум
-http://50.7.120.170:8081/dom-kino-premium/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:20,Nickelodeon
-http://50.7.120.170:8081/nickelodeon/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:21,Морской
-http://50.7.120.170:8081/morskoy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:22,Viasat Sport
-http://50.7.120.170:8081/viasatsport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:23,Кинокомедия
-http://50.7.120.170:8081/kinokomediya/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:24,5 канал Украина
-http://50.7.120.170:8081/5-kanal-ukraina/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:25,Мужской
-http://50.7.120.170:8081/muzhskoy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:26,Russian Music Box
-http://50.7.120.170:8081/russian-music-box/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:27,Т24
-http://50.7.120.170:8081/t24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:28,Новый канал
-http://50.7.120.170:8081/novyj-kanal14/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:29,Киномикс
-http://50.7.120.170:8081/kinomiks/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:30,Еспресо TV
-http://50.7.120.170:8081/espreso-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:31,Карусель
-http://50.7.120.170:8081/karusel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:32,Кинопоказ HD 1
-http://50.7.120.170:8081/kinopokaz1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:33,Интер
-http://50.7.120.170:8081/inter/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:34,M1
-http://50.7.120.170:8081/m1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:35,TV1000 Русское Кино
-http://50.7.120.170:8081/tv1000ryskino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:36,M2
-http://50.7.120.170:8081/m2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:37,Моя планета
-http://50.7.120.170:8081/moya-planeta/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:38,ТНТ4
-http://50.7.120.170:8081/tnt4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:39,Рыжий
-http://50.7.120.170:8081/ryzhiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:40,Кинохит
-http://50.7.120.170:8081/kinohit/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:41,Родное кино
-http://50.7.120.170:8081/rodnoe-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:42,TV XXI (TV 21)
-http://50.7.120.170:8081/tv-21/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:43,AMC
-http://50.7.120.170:8081/amc-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:44,Зоо ТВ
-http://50.7.120.170:8081/zoo-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:45,ОЦЕ
-http://50.7.120.170:8081/oce/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:46,Громадське ТВ
-http://50.7.120.170:8081/hromadske/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:47,Авто Плюс
-http://50.7.120.170:8081/avtoplys/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:48,RU TV
-http://50.7.120.170:8081/ru-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:49,Наш Детектив
-http://50.7.120.170:8081/nash-detektiv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:50,Тлум
-http://50.7.120.170:8081/tlum/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:51,ICTV
-http://50.7.120.170:8081/ictv9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:52,СТБ
-http://50.7.120.170:8081/stb15/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:53,Детский
-http://50.7.120.170:8081/detskij/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:54,Мульт
-http://50.7.120.170:8081/mult/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:55,Viasat History
-http://50.7.120.170:8081/viasat-history/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:56,Кинопремьера
-http://50.7.120.170:8081/kinopremera/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:57,CTC Love
-http://50.7.120.170:8081/ctclove/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:58,Ля минор
-http://50.7.120.170:8081/lya-minor/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:59,Бобёр
-http://50.7.120.170:8081/bober/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:60,Охотник и рыболов
-http://50.7.120.170:8081/ohotnik-i-rybolov/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:61,MTV Dance
-http://50.7.120.170:8081/mtv-dance/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:62,Русский детектив
-http://50.7.120.170:8081/russkiy-detektiv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:63,VIP Megahit HD
-http://50.7.120.170:8081/megahit/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:64,Galaxy TV
-http://50.7.120.170:8081/galaxy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:65,Авто24
-http://50.7.120.170:8081/avto24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:66,Остросюжетное Кино
-http://50.7.120.170:8081/ostrosjuzhetnoe/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:67,Sony Channel
-http://50.7.120.170:8081/sonychannel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:68,Еда ТВ
-http://50.7.120.170:8081/eda-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:69,Amedia 1
-http://50.7.120.170:8081/amedia1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:70,Шансон ТВ
-http://50.7.120.170:8081/shanson/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:71,Макси ТВ
-http://50.7.120.170:8081/maxxi-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:72,Муз-ТВ
-http://50.7.120.170:8081/muz-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:73,Радость моя
-http://50.7.120.170:8081/radost-moja/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:74,Travel+adventure
-http://50.7.120.170:8081/travel-adventure/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:75,Sony Turbo
-http://50.7.120.170:8081/sonyturbo/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:76,ЕвроКино
-http://50.7.120.170:8081/evrokino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:77,112 Украина
-http://50.7.120.170:8081/112-ukrana/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:78,КХЛ
-http://50.7.120.170:8081/khl/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:79,365 дней
-http://50.7.120.170:8081/365-dney/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:80,Viasat Explore
-http://50.7.120.170:8081/viasat-explore/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:81,MTV Hits
-http://50.7.120.170:8081/mtv-hits/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:82,Sony Sci-Fi
-http://50.7.120.170:8081/sonyscifi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:83,Пятница!
-http://50.7.120.170:8081/pjatnica/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:84,Индийское кино
-http://50.7.120.170:8081/indiya-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:85,Живая планета
-http://50.7.120.170:8081/zivaya-planeta/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:86,Русский роман
-http://50.7.120.170:8081/russkiy-roman/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:87,Europa Plus TV
-http://50.7.120.170:8081/europaplus/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:88,Paramount Channel
-http://50.7.120.170:8081/paramount-channel/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:89,Bridge TV
-http://50.7.120.170:8081/bridge-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:90,History
-http://50.7.120.170:8081/histori/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:91,Мужское кино
-http://50.7.120.170:8081/muzhskoe-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:92,ТНТ MUSIC
-http://50.7.120.170:8081/tnt-musik/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:93,Ani
-http://50.7.120.170:8081/ani/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:94,Кухня ТВ
-http://50.7.120.170:8081/kuhnya-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:95,Оружие
-http://50.7.120.170:8081/oruzhie/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:96,Наука 2.0
-http://50.7.120.170:8081/nauka/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:97,Трофей
-http://50.7.120.170:8081/trofej/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:98,Наше новое кино
-http://50.7.120.170:8081/nashe-novoe-kino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:99,Viasat Nature
-http://50.7.120.170:8081/viasat-nature/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:100,Tiji
-http://50.7.120.170:8081/tiji/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:101,Мама
-http://50.7.120.170:8081/mama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:102,ACB TV
-http://50.7.120.170:8081/acb-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:103,VH1 Classic
-http://50.7.120.170:8081/vh1clas/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:104,Русский бестселлер
-http://50.7.120.170:8081/russkiy-bestseller/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:105,Доктор
-http://50.7.120.170:8081/doktor/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:106,НСТ
-http://50.7.120.170:8081/nst/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:107,Дом кино
-http://50.7.120.170:8081/domkino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:108,MTV Россия
-http://50.7.120.170:8081/mtv-rys/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:109,Телеканал 24
-http://50.7.120.170:8081/24-telekanal/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:110,НТН
-http://50.7.120.170:8081/ntn/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:111,Боец
-http://50.7.120.170:8081/boec/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:112,Звезда
-http://50.7.120.170:8081/zvezda/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:113,Music Box UA
-http://50.7.120.170:8081/music-box-ua/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:114,2x2
-http://50.7.120.170:8081/2na2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:115,Загородная жизнь
-http://50.7.120.170:8081/zagorodnaya-zhizn/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:116,VH1
-http://50.7.120.170:8081/vh1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:117,К1
-http://50.7.120.170:8081/k1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:118,Наш Кинороман
-http://50.7.120.170:8081/nash-kinoroman/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:119,Nick Jr
-http://50.7.120.170:8081/nick-jr/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:120,Gulli
-http://50.7.120.170:8081/gulli/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:121,OTV
-http://50.7.120.170:8081/otv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312dfd65c61afa8a7bc5a6efe8dc6768bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:1,Первый канал
+http://185.231.160.35:5000//156/1/index.m3u8
+#EXTINF:1,Россия
+http://185.231.160.35:5000//200/2/index.m3u8
+#EXTINF:1,Матч!
+http://185.231.160.35:5000//113/1/index.m3u8
+#EXTINF:1,НТВ
+http://185.231.160.35:5000//109/1/index.m3u8
+#EXTINF:1,ТВЦ
+http://185.231.160.35:5000//134/2/index.m3u8
+#EXTINF:1,Пятый канал
+http://185.231.160.35:5000//202/2/index.m3u8
+#EXTINF:0,RU TV
+http://185.231.160.35:5000//92/2/index.m3u8
+#EXTINF:1,СТС
+http://185.231.160.35:5000//275/2/index.m3u8
+#EXTINF:1,РЕН ТВ
+http://185.231.160.35:5000//295/2/index.m3u8
+#EXTINF:-1,Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0,Animal Planet
+http://185.231.160.35:5000//214/2/index.m3u8
+#EXTINF:0,Шансон ТВ
+http://185.231.160.35:5000//199/2/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://185.231.160.35:5000//116/1/index.m3u8
+#EXTINF:0,ТНТ4
+http://185.231.160.35:5000//103/2/index.m3u8
+#EXTINF:1,СТС Love
+http://185.231.160.35:5000//276/2/index.m3u8
+#EXTINF:0,Жара
+http://185.231.160.35:5000//270/2/index.m3u8
+#EXTINF:1,Россия-Культура
+http://185.231.160.35:5000//204/2/index.m3u8
+#EXTINF:1,Россия-24
+http://185.231.160.35:5000//205/2/index.m3u8
+#EXTINF:0,Киносемья
+http://185.231.160.35:5000//266/2/index.m3u8
+#EXTINF:1,Bridge TV Dance
+http://185.231.160.35:5000//101/2/index.m3u8
+#EXTINF:0,Наше новое кино
+http://185.231.160.35:5000//263/2/index.m3u8 
+#EXTINF:0,Родное кино
+http://185.231.160.35:5000//262/2/index.m3u8
+#EXTINF:1,Ля-Минор
+http://185.231.160.35:5000//258/2/index.m3u8
+#EXTINF:-1,National Geograpchic HD
+http://185.231.160.35:5000//161/1/index.m3u8
+#EXTINF:1,МУЗ ТВ
+http://185.231.160.35:5000//12/2/index.m3u8
+#EXTINF:1,Наука 2.0
+http://185.231.160.35:5000//84/2/index.m3u8
+#EXTINF:1,Звезда
+http://185.231.160.35:5000//10/2/index.m3u8
+#EXTINF:0,One.by Россия
+#EXTGRP:музыка
+http://rtmp.one.by:2300 
+#EXTINF:10.0133,Киносвидание
+http://185.231.160.35:5000//253/2/index.m3u8
+#EXTINF:-1,HD Life
+http://185.231.160.35:5000//289/1/index.m3u8
+#EXTINF:0,Первый Балтийский музыкальный
+https://streamer4.tvdom.tv/PBMK/tracks-v1a1/index.m3u8?token=token1
+#EXTINF:0,Дом Кино
+http://185.231.160.35:5000//242/2/index.m3u8
+#EXTINF:-1,Дом Кино Премиум 
+http://185.231.160.35:5000//114/1/index.m3u8
+#EXTINF:1,Музыка Первого
+http://185.231.160.35:5000//246/2/index.m3u8
+#EXTINF:0,TV1000 Русское кино
+http://185.231.160.35:5000//37/2/index.m3u8
+#EXTINF:-1,КХЛ HD 
+http://185.231.160.35:5000//292/1/index.m3u8
+#EXTINF:-1,EUROSPORT1 HD
+http://185.231.160.35:5000//159/3/index.m3u8
+#EXTINF:-1,Eurosport2 HD 
+http://185.231.160.35:5000//77/1/index.m3u8
+#EXTINF:0,One.by
+http://rtmp.one.by:1200
+#EXTINF:0,КХЛ
+http://185.231.160.35:5000//17/2/index.m3u8 
+#EXTINF:-1,Setanta Sports
+http://93.85.93.227:80/hls/CH_SETANTASPORT/variant.m3u8?version=3
+#EXTINF:-1,Setanta Sports +
+http://93.85.93.227:80/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=3
+#EXTINF:-1,Матч! Футбол 1 HD
+http://185.231.160.35:5000//29/3/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://185.231.160.35:5000//23/3/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://185.231.160.35:5000//24/3/index.m3u8
+#EXTINF:-1,Наш Футбол HD
+http://185.231.160.35:5000//25/3/index.m3u8
+#EXTINF:0,Футбол 1 Украина
+http://185.231.160.35:5000//1033/1/index.m3u8 
+#EXTINF:0,Футбол 2 Украина
+http://185.231.160.35:5000//1034/1/index.m3u8
+#EXTINF:0,SkySport Bundesliga
+#EXTGRP:спорт
+
+http://185.231.160.35:5000//773/2/index.m3u8
+#EXTINF:0,Music Choice Dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:1,Бокс ТВ
+http://185.231.160.35:5000//317/2/index.m3u8
+#EXTINF:-1,Матч! Игра
+http://185.231.160.35:5000//288/1/index.m3u8 
+#EXTINF:-1,Матч! Арена 
+http://185.231.160.35:5000//290/1/index.m3u8
+#EXTINF:1,Матч! Наш Спорт
+http://185.231.160.35:5000//4/2/index.m3u8
+#EXTINF:0,Матч! Боец 
+http://185.231.160.35:5000//2/2/index.m3u8
+#EXTINF:-1,MusicChoice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,TV1000 MEGAHIT HD 
+http://185.231.160.35:5000//71/1/index.m3u8 
+#EXTINF:-1,TV1000 PREMIUM HD 
+http://185.231.160.35:5000//72/1/index.m3u8
+#EXTINF:0,ТНТ Music
+http://185.231.160.35:5000//22/2/index.m3u8
+#EXTINF:1,Кинохит
+http://185.231.160.35:5000//254/2/index.m3u8
+#EXTINF:0,Мужское кино
+http://185.231.160.35:5000//261/2/index.m3u8
+#EXTINF:0,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,Viasat Nature 
+http://185.231.160.35:5000//73/1/index.m3u8
+#EXTINF:0,Европа плюс
+http://185.231.160.35:5000//250/2/index.m3u8
+#EXTINF:-1,MGM HD
+http://185.231.160.35:5000//154/1/index.m3u8
+#EXTINF:1,Русский Бестселлер
+http://185.231.160.35:5000//316/2/index.m3u8
+#EXTINF:-1,MusicChoice Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8 
+#EXTINF:1,Зоопарк
+http://185.231.160.35:5000//283/2/index.m3u8
+#EXTINF:1,Че
+http://185.231.160.35:5000//279/2/index.m3u8
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:1,Nuart
+http://185.231.160.35:5000//265/2/index.m3u8
+#EXTINF:1,Кино ТВ
+http://185.231.160.35:5000//284/2/index.m3u8
+#EXTINF:10,Еврокино
+http://185.231.160.35:5000//127/2/index.m3u8
+#EXTINF:0,Atomic
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:10.0027,Русский Иллюзион
+http://185.231.160.35:5000//128/2/index.m3u8
+#EXTINF:1,Discovery Science
+http://185.231.160.35:5000//280/2/index.m3u8
+#EXTINF:-1,1 HD
+http://185.231.160.35:5000//158/1/index.m3u8
+#EXTINF:0,Jasmin TV HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:1,Amedia 1
+http://185.231.160.35:5000//119/2/index.m3u8
+#EXTINF:1,Amedia 2
+http://185.231.160.35:5000//139/2/index.m3u8
+#EXTINF:1,Amedia Premium
+http://185.231.160.35:5000//122/2/index.m3u8 
+#EXTINF:1,Deluxe Music
+http://185.231.160.35:5000//459/1/index.m3u8
+#EXTINF:0,Иллюзион
+http://185.231.160.35:5000//131/2/index.m3u8
+#EXTINF:0,TV XXL
+http://185.231.160.35:5000//137/2/index.m3u8
+#EXTINF:1,World Fashion
+http://185.231.160.35:5000//20/2/index.m3u8
+#EXTINF:-1,BRIDGE HD Dance
+http://185.231.160.35:5000//115/1/index.m3u8
+#EXTINF:1,ТВ 3
+http://185.231.160.35:5000//207/2/index.m3u8
+#EXTINF:0,ZoR TV
+http://tv.kinolenta.uz/zor_tv.m3u8
+#EXTINF:0,Kronehit HD
+#EXTGRP:музыка
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:1,Авто 24
+http://185.231.160.35:5000//172/2/index.m3u8
+#EXTINF:1,Авто плюс
+http://185.231.160.35:5000//249/2/index.m3u8
+#EXTINF:-1,RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:1,Санкт-Петербург
+http://185.231.160.35:5000//108/2/index.m3u8
+#EXTINF:-1,Мир
+http://185.231.160.35:5000//28/1/index.m3u8
+#EXTINF:0,HD Media
+#EXTGRP:познавательные
+http://62.76.26.81:8081/hdmedia/hdmedia_sd/playlist.m3u8
+#EXTINF:0,1Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8 
+#EXTINF:1,Сарафан ТВ
+http://185.231.160.35:5000//314/2/index.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru/btv/kaleidoskop/type/user/devname/LG-SmartTV/devid/LG-1462037961/eol/20200101T000000/hash/23791547a72fbaf9206cbfbb3aa689bbd72d4c8c/playlist.m3u8
+#EXTINF:1,Москва 24
+http://185.231.160.35:5000//135/2/index.m3u8
+#EXTINF:0,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:1,Discovery Channel
+http://185.231.160.35:5000//219/2/index.m3u8
+#EXTINF:1,VH1
+http://185.231.160.35:5000//239/2/index.m3u8
+#EXTINF:1,Russia Today
+http://185.231.160.35:5000//95/2/index.m3u8
+#EXTINF:1,РБК ТВ
+http://185.231.160.35:5000//16/2/index.m3u8
+#EXTINF:0,NRj TV
+#EXTGRP:музыка
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+#EXTINF:0,Пятница
+http://185.231.160.35:5000//208/2/index.m3u8
+#EXTINF:1,Комедия
+http://185.231.160.35:5000//285/2/index.m3u8
+#EXTINF:1,Наш Детектив
+http://185.231.160.35:5000//294/2/index.m3u8
+#EXTINF:1,Дон 24
+http://185.231.160.35:5000//193/2/index.m3u8
+#EXTINF:-1,Мир Белогорья
+#EXTGRP:познавательные
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,BIM TV
+http://av.bimradio.ru/hls/video2/index.m3u8
+#EXTINF:1,Брянская губерния
+http://185.231.160.35:5000//196/2/index.m3u8
+#EXTINF:0,Первый Ярославский канал
+http://185.231.160.35:5000//197/2/index.m3u8
+#EXTINF:1,Астрахань 24
+http://185.231.160.35:5000//89/2/index.m3u8
+#EXTINF:-1,Любимое ТВ
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:1,Детский мир
+http://185.231.160.35:5000//173/2/index.m3u8
+#EXTINF:1,Бобер
+http://185.231.160.35:5000//240/2/index.m3u8
+#EXTINF:1,Карусель
+http://185.231.160.35:5000//245/2/index.m3u8 
+#EXTINF:1,Мульт
+http://185.231.160.35:5000//301/2/index.m3u8
+#EXTINF:0,Телеканал О!
+http://185.231.160.35:5000//227/2/index.m3u8 
+#EXTINF:30.0027,Мульт Музыка
+http://185.231.160.35:5000//315/2/index.m3u8
+#EXTINF:1,В гостях у сказки
+http://185.231.160.35:5000//320/2/index.m3u8
+#EXTINF:1,Кто есть кто
+http://185.231.160.35:5000//256/2/index.m3u8 
+#EXTINF:0,XITE
+#EXTGRP:музыка
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w1763329410.m3u8 
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1,Radio Monte Carlo TV
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:1,Океан ТВ
+http://185.231.160.35:5000//63/2/index.m3u8
+#EXTINF:1,RTG TV
+http://185.231.160.35:5000//97/2/index.m3u8 
+#EXTINF:0,OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:1,360
+http://185.231.160.35:5000//15/2/index.m3u8
+#EXTINF:1,365 дней
+http://185.231.160.35:5000//248/2/index.m3u8
+#EXTINF:0,Clubbing TV
+#EXTGRP:музыка
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8 
+#EXTINF:1,ОТР
+http://185.231.160.35:5000//8/2/index.m3u8
+#EXTINF:1,Дача
+http://185.231.160.35:5000//191/2/index.m3u8
+#EXTINF:0,Твой Дом
+http://185.231.160.35:5000//213/2/index.m3u8
+#EXTINF:1,Охота и рыбалка
+http://185.231.160.35:5000//48/2/index.m3u8
+#EXTINF:0,538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:1,Телекафе
+http://185.231.160.35:5000//247/2/index.m3u8
+#EXTINF:1,Время
+http://185.231.160.35:5000//241/2/index.m3u8
+#EXTINF:1,Ностальгия
+http://185.231.160.35:5000//264/2/index.m3u8
+#EXTINF:1,Психология 21
+http://185.231.160.35:5000//51/2/index.m3u8
+#EXTINF:1,Мама
+http://185.231.160.35:5000//60/2/index.m3u8
+#EXTINF:1,Индийское кино
+http://185.231.160.35:5000//251/2/index.m3u8
+#EXTINF:1,Мир сериала
+http://185.231.160.35:5000//195/2/index.m3u8 
+#EXTINF:1,НТВ Сериал
+http://185.231.160.35:5000//302/2/index.m3u8
+#EXTINF:1,НТВ Стиль
+http://185.231.160.35:5000//309/2/index.m3u8
+#EXTINF:-1,Тюменское Время
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:0,Спорт 1 Ukraina
+#EXTGRP:спорт
+http://178.172.245.155:8121/sport1
+#EXTINF:0,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
+#EXTINF:-1,TVM Channel
+http://cdn-03.bonus-tv.ru/tvm/tvm/type/none/eol/20200101T0000/hash/9ee236eb709eaaba97b5722f1eedae4af79377c7/playlist.m3u8
+#EXTINF:0,ОНТ
+http://93.125.31.151:1935/live/ont.stream/playlist.m3u8
+#EXTINF:0,КиноЗаказ 1 
+https://hls.goodgame.ru/hls/114023.m3u8
+#EXTINF:0,КиноЗаказ 2 
+http://hls.goodgame.ru/hls/12949.m3u8 
+#EXTINF:0,КиноЗаказ 3 
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Семья
+http://cdn.soft-media.ru:1935/rtp-stream/familytv/playlist.m3u8
+#EXTINF:0,Ocko gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0,СЕВЕР
+http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
+#EXTINF:-1,НТС
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+#EXTINF:-1,Беларусь 1
+http://93.85.93.227:80/hls/CH_BELARUS1/variant.m3u8?version=3
+#EXTINF:-1,Беларусь 2
+http://93.85.93.227:80/hls/CH_BELARUS2/variant.m3u8?version=3
+#EXTINF:-1,Беларусь 3
+http://93.85.93.227:80/hls/CH_BELARUS3/variant.m3u8?version=3
+#EXTINF:-1,Беларусь 5
+http://93.85.93.227:80/hls/CH_BELARUS5/variant.m3u8?version=3
+#EXTINF:-1,ВТВ
+http://93.85.93.227:80/hls/CH_VTV/variant.m3u8?version=3
+#EXTINF:0,Сделано в СССР
+http://hls.goodgame.ru/hls/134398.m3u8
+#EXTINF:-1,ИКС
+http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/chunklist.m3u8
+#EXTINF:-1,Волга ТВ
+http://volga-tv.ru:1935/live/live.stream_360p/playlist.m3u8
+#EXTINF:-1,Июнь HD
+rtmp://46.172.110.19//june
+#EXTINF:-1,Конный мир HD
+http://185.231.160.35:5000//112/1/index.m3u8
+#EXTINF:-1,Трейлер ТВ
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+#EXTINF:-1,@VIDEO RU
+http://cdn-10.bonus-tv.ru/ovideo/playlist.m3u8
+#EXTINF:0,SKY SPORT AUSTRIA HD 
+http://185.231.160.35:5000//485/1/index.m3u8 
+#EXTINF:0,SKY SPORT 1 HD 
+http://185.231.160.35:5000//781/1/index.m3u8 
+#EXTINF:1,SKY SPORT 1 HD LIVE
+http://185.231.160.35:5000//786/1/index.m3u8
+#EXTINF:0,Moto GP 
+http://185.231.160.35:5000//652/1/index.m3u8 
+#EXTINF:0,Formula 1 
+http://185.231.160.35:5000//651/1/index.m3u8
+#EXTINF:1,TVP SPORT HD
+http://185.231.160.35:5000//588/1/index.m3u8
+#EXTINF:1,Golf
+http://185.231.160.35:5000//601/1/index.m3u8
+#EXTINF:1,Bein sport
+http://185.231.160.35:5000//607/1/index.m3u8 
+#EXTINF:0,M4 SPORT 
+http://185.231.160.35:5000//1042/1/index.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://185.231.160.35:5000//26/3/index.m3u8
+#EXTINF:-1,NICK
+http://185.231.160.35:5000//31/3/index.m3u8
+#EXTINF:-1,VIP-Megahit HD
+http://185.231.160.35:5000//71/3/index.m3u8
+#EXTINF:-1,VIP-Premiere HD
+http://185.231.160.35:5000//72/3/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://185.231.160.35:5000//73/3/index.m3u8
+#EXTINF:-1,Viasat SPORT HD
+http://185.231.160.35:5000//75/3/index.m3u8
+#EXTINF:-1,Viasat-Nature HD
+http://185.231.160.35:5000//74/3/index.m3u8
+#EXTINF:-1,НТВ HD
+http://185.231.160.35:5000//109/3/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://185.231.160.35:5000//111/3/index.m3u8
+#EXTINF:-1,Bridge-HD
+http://185.231.160.35:5000//115/3/index.m3u8
+#EXTINF:-1,ТНТ-HD
+http://185.231.160.35:5000//116/3/index.m3u8
+#EXTINF:-1,RTG-HD
+http://185.231.160.35:5000//152/3/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://185.231.160.35:5000//153/3/index.m3u8
+#EXTINF:-1,MGM-HD
+http://185.231.160.35:5000//154/3/index.m3u8
+#EXTINF:-1,Россия1 HD
+http://185.231.160.35:5000//157/3/index.m3u8
+#EXTINF:-1,Amedia Home-HBO
+http://185.231.160.35:5000//164/3/index.m3u8
+#EXTINF:-1,Viasat History HD
+http://185.231.160.35:5000//165/3/index.m3u8
+#EXTINF:-1,TLC
+http://185.231.160.35:5000//167/3/index.m3u8
+#EXTINF:-1,Travel Channel
+http://185.231.160.35:5000//169/3/index.m3u8
+#EXTINF:-1,КИНОПРЕМЬЕРА
+http://185.231.160.35:5000//287/3/index.m3u8
+#EXTINF:-1,КХЛ 
+http://185.231.160.35:5000//292/3/index.m3u8
+#EXTINF:-1,Discovery HD
+http://185.231.160.35:5000//291/3/index.m3u8
+#EXTINF:-1,Fine Living
+http://185.231.160.35:5000//1010/3/index.m3u8
+#EXTINF:-1,Nautical channel
+http://185.231.160.35:5000//1014/3/index.m3u8
+#EXTINF:-1,Docu BOX
+http://185.231.160.35:5000//1017/3/index.m3u8
+#EXTINF:-1,EroX HD
+http://185.231.160.35:5000//1027/3/index.m3u8
+EXTINF:-1,Футбол1 HD Украина
+http://185.231.160.35:5000//1033/3/index.m3u8
+#EXTINF:-1,Футбол2 HD Украина
+http://185.231.160.35:5000//1034/3/index.m3u8
+#EXTINF:-1,УКРАiНА
+http://185.231.160.35:5000//1035/3/index.m3u8
+#EXTINF:-1,M4 Sport
+http://185.231.160.35:5000//1042/3/index.m3u8
