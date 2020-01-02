@@ -1,125 +1,125 @@
 #EXTM3U
-#EXTINF:0 group-title="Мульт",Boomerang (768x432p25 @ 2000 kbps)
+#EXTINF:0 group-title="Multi",Boomerang (768x432p25 @ 2000 kbps)
 http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
-#EXTINF:0 group-title="Мульт",Cartoon Network (768x432p25 @ 2000 kbps)
+#EXTINF:0 group-title="Multi",Cartoon Network (768x432p25 @ 2000 kbps)
 http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
-#EXTINF:0 group-title="Мульт",Mult
+#EXTINF:0 group-title="Multi",Mult
 http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
-#EXTINF:0 group-title="Мульт",Tiji 1
+#EXTINF:0 group-title="Multi",Tiji 1
 http://ott-cdn.ucom.am/s59/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="Мульт",Tiji 2
+#EXTINF:0 group-title="Multi",Tiji 2
 http://ott-cdn.ucom.am/s59/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="Наука",Viasat History
+#EXTINF:0 group-title="Science",Viasat History
 http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:0 group-title="Наука",Viasat Nature
+#EXTINF:0 group-title="Science",Viasat Nature
 http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
-#EXTINF:0 group-title="Наука",Viasat Explore
+#EXTINF:0 group-title="Science",Viasat Explore
 http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2
-#EXTINF:0 group-title="Наука", History HD-
+#EXTINF:0 group-title="Science", History HD-
 http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
-#EXTINF:-1 group-title="Наука",Наука 2.0
+#EXTINF:-1 group-title="Science",Science 2.0
 http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8?version=2
-#EXTINF:-1 group-title="Наука",National Geographic HD
+#EXTINF:-1 group-title="Science",National Geographic HD
 http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:-1 group-title="Наука",Nat Geo Wild HD
+#EXTINF:-1 group-title="Science",Nat Geo Wild HD
 http://46.32.68.167/s/live/915/86.169.51.136/0/0.m3u8
-#EXTINF:0 group-title="Наука",Nat Geo Wild
+#EXTINF:0 group-title="Science",Nat Geo Wild
 http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:0 group-title="Наука",National Geographic
+#EXTINF:0 group-title="Science",National Geographic
 http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",FOX SD Russia (640x360p25 @ 1200 kbps)
+#EXTINF:0 group-title="Cinema",FOX SD Russia (640x360p25 @ 1200 kbps)
 http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Fox Life SD Russia (640x360p25 @ 1200 kbps)
+#EXTINF:0 group-title="Cinema",Fox Life SD Russia (640x360p25 @ 1200 kbps)
 http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",FOX LIFE HD
+#EXTINF:0 group-title="Cinema",FOX LIFE HD
 http://109.248.236.41:4433/udp/238.1.1.117:1234
-#EXTINF:0 group-title="Кино",U.HD
+#EXTINF:0 group-title="Cinema",U.HD
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:0 group-title="Кино",AKUDJI TV HD
+#EXTINF:0 group-title="Cinema",AKUDJI TV HD
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1 group-title="Кино",PznStreams HD
+#EXTINF:-1 group-title="Cinema",PznStreams HD
 https://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0  group-title="Кино",KINOPREMIERA HD
+#EXTINF:0  group-title="Cinema",KINOPREMIERA HD
 http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Sony Channel HD
+#EXTINF:-1 group-title="Cinema",Sony Channel HD
 http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Sony Sci-Fi
+#EXTINF:-1 group-title="Cinema",Sony Sci-Fi
 http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Sony Sci-Fi 
+#EXTINF:-1 group-title="Cinema",Sony Sci-Fi 
 http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
-#EXTINF:-1 group-title="Кино",ШОКИРУЮЩЕЕ HD
+#EXTINF:-1 group-title="Cinema",РЁРћРљРР РЈР®Р©Р•Р• HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1 group-title="Кино",Кино UHD
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕ UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
-#EXTINF:-1 group-title="Кино",НСТ
+#EXTINF:-1 group-title="Cinema",РќРЎРў
 http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Кинопремьера HD
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕРїСЂРµРјСЊРµСЂР° HD
 http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Киносемья 1
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕСЃРµРјСЊСЏ 1
 http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Киносерия 1
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕСЃРµСЂРёСЏ 1
 http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Мужское кино 1
+#EXTINF:-1 group-title="Cinema",РњСѓР¶СЃРєРѕРµ РєРёРЅРѕ 1
 http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Киномикс 1
+#EXTINF:0 group-title="Cinema",РљРёРЅРѕРјРёРєСЃ 1
 http://109.248.69.161:4044/udp/239.195.1.35:1234
-#EXTINF:0 group-title="Кино",Киносвидание 1
+#EXTINF:0 group-title="Cinema",РљРёРЅРѕСЃРІРёРґР°РЅРёРµ 1
 http://109.248.236.41:4433/udp/238.1.1.105:1234
-#EXTINF:0 group-title="Кино",Кинохит 1
+#EXTINF:0 group-title="Cinema",РљРёРЅРѕС…РёС‚ 1
 http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
-#EXTINF:-1,Наше Новое Кино 1
+#EXTINF:-1,РќР°С€Рµ РќРѕРІРѕРµ РљРёРЅРѕ 1
 http://109.248.236.41:4433/udp/238.1.1.54:1234
-#EXTINF:-1 group-title="Кино",Amedia Premium HD
+#EXTINF:-1 group-title="Cinema",Amedia Premium HD
 http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",TV1000
+#EXTINF:0 group-title="Cinema",TV1000
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",TV1000 Action 1
+#EXTINF:0 group-title="Cinema",TV1000 Action 1
 http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Еврокино
+#EXTINF:0 group-title="Cinema",Р•РІСЂРѕРєРёРЅРѕ
 http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Киномикс 2
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕРјРёРєСЃ 2
 http://109.248.236.41:4433/udp/238.1.1.42:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1 group-title="Кино",Киносвидание 2
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕСЃРІРёРґР°РЅРёРµ 2
 http://109.248.236.41:4433/udp/238.1.1.105:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1 group-title="Кино",Киносемья 2
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕСЃРµРјСЊСЏ 2
 http://109.248.236.41:4433/udp/238.1.1.52:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1 group-title="Кино",Киносерия 2
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕСЃРµСЂРёСЏ 2
 http://109.248.236.41:4433/udp/238.1.1.57:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1 group-title="Кино",Кинохит 2
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕС…РёС‚ 2
 http://109.248.236.41:4433/udp/238.1.1.53:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1 group-title="Кино",Наше новое кино 2
+#EXTINF:-1 group-title="Cinema",РќР°С€Рµ РЅРѕРІРѕРµ РєРёРЅРѕ 2
 http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1 group-title="Кино",Родное кино 2
+#EXTINF:-1 group-title="Cinema",Р РѕРґРЅРѕРµ РєРёРЅРѕ 2
 http://109.248.236.41:4433/udp/238.1.1.77:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1 group-title="Кино",Киномикс 3
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕРјРёРєСЃ 3
 http://86.57.225.245:7015/play/a005
-#EXTINF:-1 group-title="Кино",Киносемья 3
+#EXTINF:-1 group-title="Cinema",РљРёРЅРѕСЃРµРјСЊСЏ 3
 http://86.57.225.245:7015/play/a00p
-#EXTINF:-1 group-title="Кино",КИНОХИТ 3
+#EXTINF:-1 group-title="Cinema",РљРРќРћРҐРРў 3
 http://86.57.225.245:7015/play/a00o
-#EXTINF:-1 group-title="Кино",TV 1000 Action 2
+#EXTINF:-1 group-title="Cinema",TV 1000 Action 2
 http://ott-cdn.ucom.am/s91/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="Кино",TV 1000 Action 3
+#EXTINF:-1 group-title="Cinema",TV 1000 Action 3
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",TV 1000 Action 4
+#EXTINF:-1 group-title="Cinema",TV 1000 Action 4
 http://ott-cdn.ucom.am/s90/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="Кино",VIP Comedy 1
+#EXTINF:0 group-title="Cinema",VIP Comedy 1
 http://ott-cdn.ucom.am/s97/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="Наука",Viasat Explore 2
+#EXTINF:0 group-title="Science",Viasat Explore 2
 http://ott-cdn.ucom.am/s72/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="Наука",Viasat Explore 3
+#EXTINF:0 group-title="Science",Viasat Explore 3
 http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2
-#EXTINF:0 group-title="Наука",Viasat Explore 4
+#EXTINF:0 group-title="Science",Viasat Explore 4
 http://hls-viasat.cdnvideo.ru/hls/relay/1502787714965/index.m3u8?md5=QOqsqSmFJVtK6b7M-a71zw&e=1541405946&hls_proxy_host=94696d76afd2f85f221fc540698984ae
-#EXTINF:0 group-title="Наука",Viasat History 2
+#EXTINF:0 group-title="Science",Viasat History 2
 http://ott-cdn.ucom.am/s70/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="Наука",Viasat History 3
+#EXTINF:0 group-title="Science",Viasat History 3
 http://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
-#EXTINF:0 group-title="Наука",Viasat History 4
+#EXTINF:0 group-title="Science",Viasat History 4
 http://ott-cdn.ucom.am/s70/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 group-title="Наука",Viasat History 5
+#EXTINF:0 group-title="Science",Viasat History 5
 http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:0 group-title="Наука",Viasat Nature 2
+#EXTINF:0 group-title="Science",Viasat Nature 2
 http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
-#EXTINF:0 group-title="Наука",Viasat Nature 3
+#EXTINF:0 group-title="Science",Viasat Nature 3
 http://ott-cdn.ucom.am/s67/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
